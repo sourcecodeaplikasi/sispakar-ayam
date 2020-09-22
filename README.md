@@ -4,7 +4,7 @@ Aplikasi sistem pakar diagnosa penyakit ayam berbasis php ini memiliki desain ya
 Download sourcecode nya gratis disini : http://sourcecodeaplikasi.info/files/yOjc0
 
 Preview :
-https://sourcecodeaplikasi.info/wp-content/uploads/2020/09/app-sistem-pakar-penyakit-ayam-berbasis-web-1-300x146.png
+<img src="https://sourcecodeaplikasi.info/wp-content/uploads/2020/09/app-sistem-pakar-penyakit-ayam-berbasis-web-1-300x146.png"><br>
 https://sourcecodeaplikasi.info/wp-content/uploads/2020/09/app-sistem-pakar-penyakit-ayam-berbasis-web-2-300x146.png
 https://sourcecodeaplikasi.info/wp-content/uploads/2020/09/app-sistem-pakar-penyakit-ayam-berbasis-web-3-300x146.png
 https://sourcecodeaplikasi.info/wp-content/uploads/2020/09/app-sistem-pakar-penyakit-ayam-berbasis-web-4-300x146.png
